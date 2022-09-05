@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c950ab-f016-4ea5-af79-c2e1064ddd19" name="Changes" comment="Adding 1">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C.java" afterDir="false" />
+    <list default="true" id="50c950ab-f016-4ea5-af79-c2e1064ddd19" name="Changes" comment="Adding 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658329313854</updated>
-      <workItem from="1658329315058" duration="725000" />
+      <workItem from="1658329315058" duration="1066000" />
     </task>
     <task id="LOCAL-00001" summary="Adding">
       <created>1658329440545</created>
@@ -72,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658329806432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding 2">
+      <created>1658330060304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658330060304</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding 3">
+      <created>1658330324655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658330324655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding" />
     <MESSAGE value="Adding 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 1" />
+    <MESSAGE value="Adding 2" />
+    <MESSAGE value="Adding 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 3" />
   </component>
 </project>
